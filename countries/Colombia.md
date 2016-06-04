@@ -1,6 +1,6 @@
 ##Colombia
 Colombia, at the northern tip of South America, is a country of lush rainforest, towering mountains and coffee plantations. In the high-altitude capital, Bogotá, the Zona Rosa district is known for its restaurants, bars and shopping. Cartagena, on the Caribbean coast, features a walled colonial Old Town, a 16th-century castle and popular beaches. Nearby, culture-rich Barranquilla hosts a massive yearly Carnival.
-
+More details
 
 
 ## population
