@@ -16,5 +16,7 @@ As of 2015, nearly 95% of Uruguay's energy comes from renewable sources.  Hydrop
 
 ## references
 [1] en.wikipedia.org
+
 [2] http://www.irena.org/DocumentDownloads/Publications/IRENA_RE_Latin_America_Policies_2015_Country_Uruguay.pdf
+
 [3] http://www.theguardian.com/environment/2015/dec/03/uruguay-makes-dramatic-shift-to-nearly-95-clean-energy
