@@ -4,7 +4,7 @@
 144,192,450
 
 
-## Capitol
+## Capital
 Moscow
 
 
