@@ -1,14 +1,14 @@
 ##Mexico
-## population
+## 130 M
 
 
-## capital
+## CDMX
 
  
-## official language
+## Spanish
 
 
-## interesting trivia
+## Mexico used to be twice larger than today 
 
 
 
