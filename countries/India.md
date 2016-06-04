@@ -9,5 +9,5 @@ New Delhi
 Hindi
 
 ## interesting trivia
-India is the seventh largest country by area and the second most populated country. India is treated as the home to ancient Indus valley civillization
+India is the seventh largest country by area and the second most populated country. India is treated as the home to ancient Indus valley civillization.
 
