@@ -1,6 +1,6 @@
 ##Cameroon
 ## population 22 millions
-
+Cameroon is a central Africa country.
 
 ## capital Yaounde
 
