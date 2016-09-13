@@ -1,15 +1,21 @@
 ##United_States
+Sometimes refered to as USA
+
 ## population
 USA population in less than billion of people. But it is very popular country.
 Its  my favorate country. because it has a lot of universities. These have my favorite branch like computer science.
 
 ## capital
-I like Missouri because i will get my Phd from University of Missouri.
+ 
+Washington DC
  
 ## official language
-English
+American English
+
 
 ## interesting trivia
-Sports. My favorite Football.
 
+Oklahoma is now the earthquake capital of the US.
+Frack Frack Frack 
+No, its the waste water. 
 
